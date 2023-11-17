@@ -22,7 +22,7 @@ el *userId* uno de los 3 posibles usuarios existentes.
 
 #### Proceso de compilación y ejecución
 
-1. Clonar el repositorio: `git clone https://github.com/david26/postman-demo`
+1. Clonar el repositorio: `git clone https://github.com/david26/postman-demo.git`
 2. Navegar al directorio postman-demo: `cd postman-demo`
 3. Compilar el proyecto: `mvn clean package`
 4. Correr el servicio: `java -jar target/demo-postman-0.0.1-SNAPSHOT.jar`
